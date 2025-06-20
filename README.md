@@ -23,7 +23,7 @@ For installation and configuration instructions, please refer to the documentati
 
 ## Contact
 
-For support or inquiries, please reach out via email:itrpbot.help@gmail.com
+For support or inquiries, please reach out via email: itrpbot.help@gmail.com
 
 ---
 
